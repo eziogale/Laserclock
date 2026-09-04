@@ -10,7 +10,7 @@ $$
 ay = \cos(\text{angle})
 $$
 
-The resonace frequency is 70Hz. The clock hands (arrows) are created by rapidly turning the laser LED on and off. When connected to a Wi-Fi hotspot, the time is automatically synchronized with an NTP server, and daylight saving time (DST) is automatically taken into account.
+The resonance frequency is 70Hz. The clock hands (arrows) are created by rapidly turning the laser LED on and off. When connected to a Wi-Fi hotspot, the time is automatically synchronized with an NTP server, and daylight saving time (DST) is automatically taken into account.
 
 
 <img src="IMG_20200327_132022.jpg" style="width: 30vw;"/><img src="20260824_213658.gif" style="width: 40vw;"/>
